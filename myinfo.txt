@@ -1,1 +1,2 @@
 full name: Alvin Wong
+department: CS
